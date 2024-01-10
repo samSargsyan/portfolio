@@ -1,0 +1,38 @@
+.header{
+    width: calc(100% - 20px);
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logoDiv{
+    color: white;
+    display: flex;
+    height: 100%;
+    gap: 10px;
+    align-items: center;
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    font-size: 14px;
+}
+.logo{
+    width: 32px;
+    height: 34px;
+    background-size: cover;
+    animation: changeBg 2s infinite;
+}
+
+@keyframes changeBg{
+   0%,100%  {background-image: url("../../images/logo1.png");}
+   25% {background-image: url("../../images/logo2.png");}
+   50% {background-image: url("../../images/logo3.png");}
+   75% {background-image: url("../../images/logo4.png");}
+}
+
+.lightMode{
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    cursor: pointer;
+}

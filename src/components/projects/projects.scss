@@ -1,0 +1,42 @@
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    .project{
+        height: 300px;
+        width: 40%;
+        background-color: aqua;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border: 6px solid #FFCD74;
+        border-radius: 15px;
+    }
+    .toyStore{
+        background-image: url("../../images/toys.png");
+        &:hover{
+        background-image: url("../../images/toyStore.gif");   
+        }
+    }
+    .career{
+        background-image: url("../../images/careers.png");
+        &:hover{
+        background-image: url("../../images/careerPlace.gif");
+        }
+    }
+    .movies{
+        background-image: url("../../images/movies.png");
+        &:hover{
+        background-image: url("../../images/moviePlace.gif");
+        }
+    }
+    .games{
+        background-image: url("../../images/games.png");
+        &:hover{
+        background-image: url("../../images/gameStore.gif");
+        }
+    }
+    
+}
+

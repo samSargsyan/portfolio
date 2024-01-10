@@ -1,0 +1,21 @@
+.about{
+    background-color: #232222;
+    margin-top: 50px;
+    padding: 50px;
+    display: flex;
+    text-align: justify;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5rem;
+    img{
+        height: 400px;
+    }
+    span{
+        width: 45%;
+        color: white;
+    }
+    .lightModeSpan{
+        color: #232222;
+    }
+    
+}

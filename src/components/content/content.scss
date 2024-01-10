@@ -1,0 +1,36 @@
+.content{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    font-family: 'Cinzel', serif;
+    .contentDescription{
+        width: 30%;
+        .contentDesc{
+            font-weight: bold;
+            background: linear-gradient(to right, #FFE5A1, #BF841A, #FFCD74); 
+            -webkit-text-fill-color: transparent; 
+            -webkit-background-clip: text; 
+        }
+        .contentName{
+            font-weight: bold;
+            background: linear-gradient(to left
+            , #FFE5A1, #BF841A, #FFCD74); 
+            -webkit-text-fill-color: transparent; 
+            -webkit-background-clip: text; 
+        }
+        p{
+            color: white;
+            transition: all 0.5s linear;
+        }
+        .lightModeP{
+            color: #232222;
+        }
+    }
+    .contentImage{
+        width: 30%;
+        img{
+            height: 300px;
+            border-radius: 15px;
+        }
+    }
+}
