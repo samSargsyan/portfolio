@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.145e17b1.css",
+    "main.js": "/portfolio/static/js/main.a8e08c10.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/movies.png": "/portfolio/static/media/movies.c975c3346638f2478c37.png",
+    "static/media/games.png": "/portfolio/static/media/games.449bea81b73934624381.png",
+    "static/media/careers.png": "/portfolio/static/media/careers.2777d41973c85a51100e.png",
+    "static/media/moviePlace.gif": "/portfolio/static/media/moviePlace.c5ebc33d86329c6ad84a.gif",
+    "static/media/gameStore.gif": "/portfolio/static/media/gameStore.a259a6ef6e997dda4819.gif",
+    "static/media/careerPlace.gif": "/portfolio/static/media/careerPlace.d8adee4b6d9f387dfd1e.gif",
+    "static/media/toys.png": "/portfolio/static/media/toys.80e5122b663fde1684ae.png",
+    "static/media/toyStore.gif": "/portfolio/static/media/toyStore.9bf5fd1d568c4d5bd7f8.gif",
+    "static/media/working.jpg": "/portfolio/static/media/working.462462a45a8b8ee92ebf.jpg",
+    "static/media/oldPerson.jpg": "/portfolio/static/media/oldPerson.b0e6f83d1022f7c4108b.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.145e17b1.css.map": "/portfolio/static/css/main.145e17b1.css.map",
+    "main.a8e08c10.js.map": "/portfolio/static/js/main.a8e08c10.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145e17b1.css",
+    "static/js/main.a8e08c10.js"
+  ]
+}
