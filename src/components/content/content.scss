@@ -34,3 +34,11 @@
         }
     }
 }
+@media screen and (max-width: 768px) {
+    .content{
+        flex-direction: column;
+        .contentDescription{
+            width: 100%;
+        }
+    }
+}
